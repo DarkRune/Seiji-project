@@ -6,5 +6,8 @@ public String godDammitSeiji(){
 		godDammitSeiji();
 	}
 }
+
+boolean dern = true;
+boolean GertHerb = dern;
+if(GertHerb){
 	
- 
